@@ -12,7 +12,7 @@ File handling in Go invole working with the os and io/ioutil package.
 Here a basic guide to common file operations like creating, reading and
 writing files.
 */
-
+//  
 /*
 we can use the io package in GO for writing to a file. The io.WriteString function
 is a convenient wasy to write a string to a fie.
